@@ -1,0 +1,15 @@
+
+
+
+1. Write 4 XPath locators
+• Wiki logo                                   //*[@id="p-logo"] 
+• Div element for Article count               //*[@id="articlecount"] 
+• 4-th item from "Did you know…" list         //*[@href="/wiki/Luang_Por_Dhammajayo"]
+• Count of ‘Interaction’ elements             //*[@class='body']
+
+
+2. Write 4 CSS selectors                
+• Wiki logo                                   # p-logo           
+• Div element for Article count               #articlecount
+• Main page link                              #n-mainpage-description  
+• 2-nd item from "Did you know…" list         [href*="/wiki/Texas"]
